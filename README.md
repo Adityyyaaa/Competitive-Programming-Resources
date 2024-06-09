@@ -1,1 +1,1 @@
-#This repositoty contains basic Competitive Programming Resources#
+`This repositoty contains basic Competitive Programming Resources`
